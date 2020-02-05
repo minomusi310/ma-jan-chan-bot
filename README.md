@@ -19,9 +19,9 @@ Lineアカウントを使用して登録もできる。
 
 meessaging API として作成
 
-さて、tokeの発行だが
-[カスペルスキーブログ](https://blog.kaspersky.co.jp/tokens-on-github/22922/)にあるように
-こういった危険な奴は注意が必要。
+さて、tokeの発行だが　　
+[カスペルスキーブログ](https://blog.kaspersky.co.jp/tokens-on-github/22922/)にあるように　　
+こういった危険な奴は注意が必要。　　
 github以外のやり方での共有がよい。
 
 
