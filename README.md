@@ -17,8 +17,12 @@ Lineアカウントを使用して登録もできる。
 プロバイダを新規登録  
 →アイコンが必要だが、著作権など気になるのでいらすとやを使用。  
 
--message　API
-として作成
+meessaging API として作成
+
+さて、tokeの発行だが
+[カスペルスキーブログ](https://blog.kaspersky.co.jp/tokens-on-github/22922/)にあるように
+こういった危険な奴は注意が必要。
+github以外のやり方での共有がよい。
 
 
 ## 言語はpython
