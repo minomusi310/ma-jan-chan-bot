@@ -7,15 +7,15 @@
 - 順位表の表示
 
 ### Line Developersの登録
-https://developers.line.biz/ からアカウントの登録。
+https://developers.line.biz/ からアカウントの登録。  
 Lineアカウントを使用して登録もできる。
 
 ### チャネルの作成
 [公式ガイド](https://developers.line.biz/ja/docs/messaging-api/getting-started/#%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90)
 
-何のことかと思うが、Line debelopersにログインしたのちに
-プロバイダを新規登録
-→アイコンが必要だが、著作権など気になるのでいらすとやを使用。
+何のことかと思うが、Line debelopersにログインしたのちに  
+プロバイダを新規登録  
+→アイコンが必要だが、著作権など気になるのでいらすとやを使用。  
 
 -message　API
 として作成
@@ -24,6 +24,6 @@ Lineアカウントを使用して登録もできる。
 ## 言語はpython
 https://github.com/line/line-bot-sdk-python
 
-とりあえずsdk入れておく
+とりあえずsdk入れておく  
 ``` pip install line-bot-sdk ```
 
